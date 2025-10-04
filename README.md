@@ -17,4 +17,4 @@ Welcome! This folder contains study materials for different subjects. Click any 
 
 ---
 
-**Contact**: For questions or more materials, reach out at: [your email or GitHub]
+**Contact**: For questions or more materials, reach out at: [mekbibtariku19@gmail.com]
